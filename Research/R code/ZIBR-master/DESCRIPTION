@@ -1,0 +1,12 @@
+Package: ZIBR
+Type: Package
+Title: A zero-inflated beta random effect model
+Version: 0.1
+Date: 2017-01-25
+Author: Eric Zhang Chen
+Maintainer: Eric Zhang Chen <chvlyl@gmail.com>
+Description: A zero-inflated beta random effect model for longitudinal
+    microbiome data.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
